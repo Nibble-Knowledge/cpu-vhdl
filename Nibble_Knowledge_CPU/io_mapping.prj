@@ -1,0 +1,3 @@
+vhdl work "Reg.vhd"
+vhdl work "io_decode.vhd"
+vhdl work "io_mapping.vhd"

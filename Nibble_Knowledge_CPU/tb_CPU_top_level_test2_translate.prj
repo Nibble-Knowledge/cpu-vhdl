@@ -1,0 +1,2 @@
+vhdl work "netgen/translate/CPU_translate.vhd"
+vhdl work "tb_CPU_top_level_test2.vhd"

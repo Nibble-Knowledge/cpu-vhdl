@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Colton/Nibble_Knowledge_CPU/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Colton/Nibble_Knowledge_CPU/xst"
+elaborate
+-ifn bitadder_16.prj
+-ifmt mixed

@@ -1,0 +1,57 @@
+NET "clk"	LOC = "P89";
+NET "reset" LOC = "P18";
+
+NET "hlt_out" loc = "P23";
+NET "clk_out" loc = "P84";
+
+net "ram_data(0)"	loc = "P85";
+net "ram_data(1)" loc = "P83";
+net "ram_data(2)" loc = "P78";
+net "ram_data(3)" loc = "P71";
+
+net "ram_write_enable"	loc = "P86";
+
+net "ram_address(0)"		loc = "P91";
+net "ram_address(1)"		loc = "P92";
+net "ram_address(2)"		loc = "P94";
+net "ram_address(3)"		loc = "P95";
+net "ram_address(4)"		loc = "P98";
+net "ram_address(5)"		loc = "P2";
+net "ram_address(6)"			loc = "P3";
+net "ram_address(7)"			loc = "P4";
+net "ram_address(8)"			loc = "P5";
+net "ram_address(9)"			loc = "P9";
+net "ram_address(10)"			loc = "P10";
+net "ram_address(11)"			loc = "P11";
+net "ram_address(12)"			loc = "P12";
+net "ram_address(13)"			loc = "P15";
+net "ram_address(14)"			loc = "P16";
+net "ram_address(15)"			loc = "P17";
+
+
+net "a_data(3)"			loc = "P57";
+net "a_data(2)"			loc = "P53";
+net "a_data(1)"			loc = "P40";
+net "a_data(0)"			loc = "P35";
+
+
+net "bus_ready"		loc = "P67";
+net "bus_parity"		loc = "P65";
+net "oe"					loc = "P62";
+
+net "bus_data(3)"			loc = "P68";
+net "bus_data(2)"			loc = "P66";
+net "bus_data(1)"			loc = "P63";
+net "bus_data(0)"			loc = "P61";
+
+net "bus_status_out(1)" 	loc = "P58";
+net "bus_status_out(0)" 	loc = "P54";
+
+net "bus_chip_select(3)"	loc = "P34";
+net "bus_chip_select(2)"	loc = "P32";
+net "bus_chip_select(1)"	loc = "P25";
+net "bus_chip_select(0)"	loc = "P22";
+
+net "read_mode"		loc = "P33";
+
+

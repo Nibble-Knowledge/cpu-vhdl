@@ -1,0 +1,44 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.30 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.31 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/one_bit_full_adder.vhd" in Library work.
+Architecture behavioral of Entity one_bit_full_adder is up to date.
+Compiling vhdl file "C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/four_bit_full_adder.vhd" in Library work.
+Architecture behavioral of Entity four_bit_full_adder is up to date.
+Compiling vhdl file "C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/four_bit_nand.vhd" in Library work.
+Architecture behavioral of Entity four_bit_nand is up to date.
+Compiling vhdl file "C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/Reg.vhd" in Library work.
+Architecture behavioral of Entity reg is up to date.
+Compiling vhdl file "C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/alu_decode.vhd" in Library work.
+Architecture behavioral of Entity alu_decode is up to date.
+Compiling vhdl file "C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/alu_complete.vhd" in Library work.
+Architecture behavioral of Entity alu_complete is up to date.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.56 secs
+ 
+--> 
+
+Total memory usage is 227572 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

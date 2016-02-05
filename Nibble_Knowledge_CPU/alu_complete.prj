@@ -1,0 +1,6 @@
+vhdl work "one_bit_full_adder.vhd"
+vhdl work "Reg.vhd"
+vhdl work "four_bit_nand.vhd"
+vhdl work "four_bit_full_adder.vhd"
+vhdl work "alu_decode.vhd"
+vhdl work "alu_complete.vhd"

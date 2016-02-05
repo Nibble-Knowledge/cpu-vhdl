@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/tb_cpu_with_io_isim_beh.exe" -prj "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/tb_cpu_with_io_beh.prj" "work.tb_cpu_with_io" 

@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/xst"
+elaborate
+-ifn io_mapping.prj
+-ifmt mixed

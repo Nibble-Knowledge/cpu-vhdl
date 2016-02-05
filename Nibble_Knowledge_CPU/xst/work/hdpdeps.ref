@@ -1,0 +1,188 @@
+V3 122
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/alu_complete.vhd 2015/11/23.16:29:24 P.20131013
+EN work/alu_complete 1448848118 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/alu_complete.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/alu_complete/Behavioral 1448848119 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/alu_complete.vhd \
+      EN work/alu_complete 1448848118 CP four_bit_full_adder CP four_bit_nand \
+      CP Reg CP alu_decode
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/alu_decode.vhd 2015/11/23.16:49:42 P.20131013
+EN work/alu_decode 1448848106 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/alu_decode.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/alu_decode/Behavioral 1448848107 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/alu_decode.vhd \
+      EN work/alu_decode 1448848106
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/bitadder_1.vhd 2015/10/23.11:31:05 P.20131013
+EN work/bitadder_1 1448848108 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/bitadder_1.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/bitadder_1/Behavioral 1448848109 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/bitadder_1.vhd \
+      EN work/bitadder_1 1448848108
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/bitadder_16.vhd 2015/10/23.11:31:05 P.20131013
+EN work/bitadder_16 1448848116 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/bitadder_16.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/bitadder_16/Behavioral 1448848117 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/bitadder_16.vhd \
+      EN work/bitadder_16 1448848116 CP bitadder_1
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/clock_divider_V2.vhd 2015/11/27.15:02:20 P.20131013
+EN work/clock_divider_V2 1448848124 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/clock_divider_V2.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/clock_divider_V2/Behavioral 1448848125 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/clock_divider_V2.vhd \
+      EN work/clock_divider_V2 1448848124 CP downcounter
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/clock_new.vhd 2015/11/29.17:48:01 P.20131013
+EN work/clock_new 1448845733 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/clock_new.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/clock_new/BEHAVIORAL 1448845734 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/clock_new.vhd \
+      EN work/clock_new 1448845733 CP BUFG CP IBUFG CP DCM_SP
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/control_unit_V2.vhd 2015/11/02.16:57:19 P.20131013
+EN work/control_unit_V2 1448848120 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/control_unit_V2.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/control_unit_V2/Behavioral 1448848121 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/control_unit_V2.vhd \
+      EN work/control_unit_V2 1448848120
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/CPU-TopLevel.vhd 2015/11/29.18:48:13 P.20131013
+EN work/CPU 1448848126 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/CPU-TopLevel.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/CPU/Behavioral 1448848127 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/CPU-TopLevel.vhd \
+      EN work/CPU 1448848126 CP io_mapping CP register16 CP bitadder_16 \
+      CP alu_complete CP control_unit_V2 CP register16_with_we CP clock_divider_V2
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/downcounter.vhd 2015/02/07.19:56:42 P.20131013
+EN work/downcounter 1448848098 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/downcounter.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/downcounter/Behavioral 1448848099 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/downcounter.vhd \
+      EN work/downcounter 1448848098
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/four_bit_full_adder.vhd 2015/10/22.20:02:29 P.20131013
+EN work/four_bit_full_adder 1448848100 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/four_bit_full_adder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/four_bit_full_adder/Behavioral 1448848101 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/four_bit_full_adder.vhd \
+      EN work/four_bit_full_adder 1448848100 CP one_bit_full_adder
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/four_bit_nand.vhd 2015/10/22.20:02:36 P.20131013
+EN work/four_bit_nand 1448848102 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/four_bit_nand.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/four_bit_nand/Behavioral 1448848103 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/four_bit_nand.vhd \
+      EN work/four_bit_nand 1448848102
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/io_decode.vhd 2015/11/16.17:55:34 P.20131013
+EN work/io_decode 1448848110 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/io_decode.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/io_decode/Behavioral 1448848111 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/io_decode.vhd \
+      EN work/io_decode 1448848110
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/io_mapping.vhd 2015/11/23.21:43:12 P.20131013
+EN work/io_mapping 1448848112 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/io_mapping.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/io_mapping/Behavioral 1448848113 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/io_mapping.vhd \
+      EN work/io_mapping 1448848112 CP io_decode CP Reg
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/one_bit_full_adder.vhd 2015/10/22.20:02:38 P.20131013
+EN work/one_bit_full_adder 1448848096 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/one_bit_full_adder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/one_bit_full_adder/Behavioral 1448848097 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/one_bit_full_adder.vhd \
+      EN work/one_bit_full_adder 1448848096
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/Reg.vhd 2015/11/23.19:27:56 P.20131013
+EN work/Reg 1448848104 FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/Reg.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Reg/Behavioral 1448848105 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/Reg.vhd EN work/Reg 1448848104
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/register16.vhd 2015/10/22.21:29:47 P.20131013
+EN work/register16 1448848114 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/register16.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/register16/Behavioral 1448848115 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/register16.vhd \
+      EN work/register16 1448848114
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/register16_with_we.vhd 2015/11/23.18:07:14 P.20131013
+EN work/register16_with_we 1448848122 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/register16_with_we.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/register16_with_we/Behavioral 1448848123 \
+      FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/register16_with_we.vhd \
+      EN work/register16_with_we 1448848122
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU/alu_complete.vhd 2015/10/22.21:09:15 P.20131013
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU/alu_decode.vhd 2015/10/27.11:08:40 P.20131013
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU/bitadder_1.vhd 2015/10/23.12:31:05 P.20131013
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU/bitadder_16.vhd 2015/10/23.12:31:05 P.20131013
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU/clock_divider.vhd 2015/10/26.21:17:27 P.20131013
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU/control_unit.vhd 2015/10/26.19:43:46 P.20131013
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU/CPU-TopLevel.vhd 2015/10/27.11:10:29 P.20131013
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU/downcounter.vhd 2015/02/07.20:56:42 P.20131013
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU/four_bit_full_adder.vhd 2015/10/22.21:02:29 P.20131013
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU/four_bit_nand.vhd 2015/10/22.21:02:36 P.20131013
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU/one_bit_full_adder.vhd 2015/10/22.21:02:38 P.20131013
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU/Reg.vhd 2015/10/22.21:06:11 P.20131013
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU/register16.vhd 2015/10/22.22:29:47 P.20131013
+FL C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU/register16_with_we.vhd 2015/10/24.11:06:56 P.20131013
+FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/alu_complete.vhd 2015/10/31.15:59:30 P.20131013
+FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/alu_decode.vhd 2015/11/01.10:31:59 P.20131013
+FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/bitadder_1.vhd 2015/10/23.11:31:05 P.20131013
+FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/bitadder_16.vhd 2015/10/23.11:31:05 P.20131013
+FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/clock_divider.vhd 2015/10/31.19:47:26 P.20131013
+EN work/clock_divider 1446344515 \
+      FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/clock_divider.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/clock_divider/Behavioral 1446344516 \
+      FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/clock_divider.vhd \
+      EN work/clock_divider 1446344515 CP downcounter
+FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/clock_divider_V2.vhd 2015/11/02.13:08:21 P.20131013
+FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/control_unit.vhd 2015/11/01.09:38:05 P.20131013
+EN work/control_unit 1446402922 \
+      FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/control_unit.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/control_unit/Behavioral 1446402923 \
+      FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/control_unit.vhd \
+      EN work/control_unit 1446402922
+FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/control_unit_V2.vhd 2015/11/01.14:34:05 P.20131013
+FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/CPU-TopLevel.vhd 2015/11/01.15:22:22 P.20131013
+FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/downcounter.vhd 2015/02/07.19:56:42 P.20131013
+FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/four_bit_full_adder.vhd 2015/10/22.20:02:29 P.20131013
+FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/four_bit_nand.vhd 2015/10/22.20:02:36 P.20131013
+FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/one_bit_full_adder.vhd 2015/10/22.20:02:38 P.20131013
+FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/Reg.vhd 2015/10/22.20:06:11 P.20131013
+FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/register16.vhd 2015/10/22.21:29:47 P.20131013
+FL C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/register16_with_we.vhd 2015/10/24.10:06:56 P.20131013
+FL C:/Users/Colton/Nibble_Knowledge_CPU/alu_complete.vhd 2015/10/22.21:09:15 P.20131013
+FL C:/Users/Colton/Nibble_Knowledge_CPU/alu_decode.vhd 2015/10/22.21:02:17 P.20131013
+FL C:/Users/Colton/Nibble_Knowledge_CPU/bitadder_1.vhd 2015/10/23.12:31:05 P.20131013
+FL C:/Users/Colton/Nibble_Knowledge_CPU/bitadder_16.vhd 2015/10/23.12:31:05 P.20131013
+FL C:/Users/Colton/Nibble_Knowledge_CPU/clock_divider.vhd 2015/10/26.13:46:08 P.20131013
+FL C:/Users/Colton/Nibble_Knowledge_CPU/control_unit.vhd 2015/10/24.15:13:54 P.20131013
+FL C:/Users/Colton/Nibble_Knowledge_CPU/CPU-TopLevel.vhd 2015/10/26.13:15:26 P.20131013
+FL C:/Users/Colton/Nibble_Knowledge_CPU/CPU_RAM.vhd 2015/10/19.21:39:12 P.20131013
+EN work/CPU_RAM 1445574314 FL C:/Users/Colton/Nibble_Knowledge_CPU/CPU_RAM.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/CPU_RAM/Behavioral 1445574315 \
+      FL C:/Users/Colton/Nibble_Knowledge_CPU/CPU_RAM.vhd EN work/CPU_RAM 1445574314
+FL C:/Users/Colton/Nibble_Knowledge_CPU/downcounter.vhd 2015/02/07.20:56:42 P.20131013
+FL C:/Users/Colton/Nibble_Knowledge_CPU/four_bit_full_adder.vhd 2015/10/22.21:02:29 P.20131013
+FL C:/Users/Colton/Nibble_Knowledge_CPU/four_bit_nand.vhd 2015/10/22.21:02:36 P.20131013
+FL C:/Users/Colton/Nibble_Knowledge_CPU/one_bit_full_adder.vhd 2015/10/22.21:02:38 P.20131013
+FL C:/Users/Colton/Nibble_Knowledge_CPU/Reg.vhd 2015/10/22.21:06:11 P.20131013
+FL C:/Users/Colton/Nibble_Knowledge_CPU/register16.vhd 2015/10/22.22:29:47 P.20131013
+FL C:/Users/Colton/Nibble_Knowledge_CPU/register16_with_we.vhd 2015/10/24.11:06:56 P.20131013

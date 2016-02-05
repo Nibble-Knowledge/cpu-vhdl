@@ -1,0 +1,3 @@
+vhdl isim_temp "downcounter.vhd"
+vhdl isim_temp "clock_divider_V2.vhd"
+vhdl isim_temp "tb_clk_div_V2.vhd"

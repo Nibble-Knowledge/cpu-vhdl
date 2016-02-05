@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Nibble_Knowledge_CPU" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/CPU - Behavioral C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|CPU-TopLevel.vhd/IOMAP - io_mapping - Behavioral</ClosedNode>
+         <ClosedNode>/CPU - Behavioral C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|CPU-TopLevel.vhd/Intern_clock - clock_divider_V2 - Behavioral</ClosedNode>
+         <ClosedNode>/CPU - Behavioral C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|CPU-TopLevel.vhd/adder_16bit - bitadder_16 - Behavioral</ClosedNode>
+         <ClosedNode>/CPU - Behavioral C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|CPU-TopLevel.vhd/cpu_alu - alu_complete - Behavioral</ClosedNode>
+         <ClosedNode>/CPU - Behavioral C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|CPU-TopLevel.vhd/cpu_alu - alu_complete - Behavioral/ADDER - four_bit_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/CPU - Behavioral C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU|CPU-TopLevel.vhd/adder_16bit - bitadder_16 - Behavioral</ClosedNode>
+         <ClosedNode>/CPU - Behavioral C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU|CPU-TopLevel.vhd/cpu_alu - alu_complete - Behavioral/ADDER - four_bit_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/CPU - Behavioral C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|CPU-TopLevel.vhd/Intern_clock - clock_divider_V2 - Behavioral</ClosedNode>
+         <ClosedNode>/CPU - Behavioral C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|CPU-TopLevel.vhd/adder_16bit - bitadder_16 - Behavioral</ClosedNode>
+         <ClosedNode>/CPU - Behavioral C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|CPU-TopLevel.vhd/cpu_alu - alu_complete - Behavioral</ClosedNode>
+         <ClosedNode>/CPU - Behavioral C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|CPU-TopLevel.vhd/cpu_alu - alu_complete - Behavioral/ADDER - four_bit_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/CPU - Behavioral C:|Users|Colton|Nibble_Knowledge_CPU|CPU-TopLevel.vhd/Intern_clock - clock_divider - Behavioral</ClosedNode>
+         <ClosedNode>/CPU - Behavioral C:|Users|Colton|Nibble_Knowledge_CPU|CPU-TopLevel.vhd/adder_16bit - bitadder_16 - Behavioral</ClosedNode>
+         <ClosedNode>/CPU - Behavioral C:|Users|Colton|Nibble_Knowledge_CPU|CPU-TopLevel.vhd/cpu_alu - alu_complete - Behavioral</ClosedNode>
+         <ClosedNode>/CPU - Behavioral C:|Users|Colton|Nibble_Knowledge_CPU|CPU-TopLevel.vhd/cpu_alu - alu_complete - Behavioral/ADDER - four_bit_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/alu_complete - Behavioral C:|Users|Colton|Nibble_Knowledge_CPU|alu_complete.vhd/ADDER - four_bit_full_adder - Behavioral</ClosedNode>
+         <ClosedNode>/bitadder_16 - Behavioral C:|Users|Colton|Nibble_Knowledge_CPU|bitadder_16.vhd</ClosedNode>
+         <ClosedNode>/clock_divider - Behavioral C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|clock_divider.vhd</ClosedNode>
+         <ClosedNode>/clock_divider - Behavioral C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|clock_divider.vhd</ClosedNode>
+         <ClosedNode>/clock_divider - Behavioral C:|Users|Colton|Nibble_Knowledge_CPU|clock_divider.vhd</ClosedNode>
+         <ClosedNode>/clock_divider_V2 - Behavioral C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|clock_divider_V2.vhd</ClosedNode>
+         <ClosedNode>/io_mapping - Behavioral C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|io_mapping.vhd</ClosedNode>
+         <ClosedNode>/tb_alu_complete - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|tb_alu_complete.vhd</ClosedNode>
+         <ClosedNode>/tb_alu_complete - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU|tb_alu_complete.vhd</ClosedNode>
+         <ClosedNode>/tb_alu_complete - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_alu_complete.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>IOMAP - io_mapping - Behavioral (C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/io_mapping.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001cb000000020000000000000000000000000200000064ffffffff000000810000000300000002000001cb0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>IOMAP - io_mapping - Behavioral (C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/io_mapping.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000002a2000000040101000100000000000000000000000064ffffffff000000810000000000000004000000970000000100000000000000240000000100000000000000660000000100000000000001810000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>alu_complete.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000000d4000000dc01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/CPU - Behavioral C:|Users|Colton|Nibble_Knowledge_CPU|CPU-TopLevel.vhd/adder_16bit - bitadder_16 - Behavioral</ClosedNode>
+         <ClosedNode>/CPU - Behavioral C:|Users|Colton|Nibble_Knowledge_CPU|CPU-TopLevel.vhd/cpu_alu - alu_complete - Behavioral</ClosedNode>
+         <ClosedNode>/clock_divider - Behavioral C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|clock_divider.vhd</ClosedNode>
+         <ClosedNode>/clock_divider - Behavioral C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|clock_divider.vhd</ClosedNode>
+         <ClosedNode>/tb_16bit_adder - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|tb_16bit_adder.vhd</ClosedNode>
+         <ClosedNode>/tb_16bit_adder - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU|tb_16bit_adder.vhd</ClosedNode>
+         <ClosedNode>/tb_16bit_adder - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU|tb_16bit_adder.vhd/uut - bitadder_16 - Behavioral</ClosedNode>
+         <ClosedNode>/tb_16bit_adder - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_16bit_adder.vhd</ClosedNode>
+         <ClosedNode>/tb_16bit_adder - behavior C:|Users|Colton|Nibble_Knowledge_CPU|tb_16bit_adder.vhd</ClosedNode>
+         <ClosedNode>/tb_16bit_adder - behavior C:|Users|Colton|Nibble_Knowledge_CPU|tb_16bit_adder.vhd/uut - bitadder_16 - Behavioral</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|tb_CPU_top_level.vhd</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level.vhd</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level.vhd/uut - CPU - Behavioral</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level.vhd</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level - behavior C:|Users|Colton|Nibble_Knowledge_CPU|tb_CPU_top_level.vhd</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level - behavior C:|Users|Colton|Nibble_Knowledge_CPU|tb_CPU_top_level.vhd/uut - CPU - Behavioral</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|tb_CPU_top_level_test2.vhd/uut - CPU - Behavioral/IOMAP - io_mapping - Behavioral</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|tb_CPU_top_level_test2.vhd/uut - CPU - Behavioral/Intern_clock - clock_divider_V2 - Behavioral</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|tb_CPU_top_level_test2.vhd/uut - CPU - Behavioral/adder_16bit - bitadder_16 - Behavioral</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|tb_CPU_top_level_test2.vhd/uut - CPU - Behavioral/cpu_alu - alu_complete - Behavioral</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level_test2.vhd</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level_test2.vhd/uut - CPU - Behavioral/Intern_clock - clock_divider - Behavioral</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level_test2.vhd/uut - CPU - Behavioral/adder_16bit - bitadder_16 - Behavioral</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level_test2.vhd/uut - CPU - Behavioral/cpu_alu - alu_complete - Behavioral</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level_test2.vhd</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level_test2.vhd/uut - CPU - Behavioral</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level_test2.vhd/uut - CPU - Behavioral/Intern_clock - clock_divider - Behavioral</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level_test2.vhd/uut - CPU - Behavioral/adder_16bit - bitadder_16 - Behavioral</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level_test2.vhd/uut - CPU - Behavioral/cpu_alu - alu_complete - Behavioral</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Colton|Nibble_Knowledge_CPU|tb_CPU_top_level_test2.vhd</ClosedNode>
+         <ClosedNode>/tb_alu_complete - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|tb_alu_complete.vhd</ClosedNode>
+         <ClosedNode>/tb_alu_complete - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU|tb_alu_complete.vhd</ClosedNode>
+         <ClosedNode>/tb_alu_complete - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_alu_complete.vhd</ClosedNode>
+         <ClosedNode>/tb_clk_div_V2 - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|tb_clk_div_V2.vhd</ClosedNode>
+         <ClosedNode>/tb_clk_div_V2 - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_clk_div_V2.vhd</ClosedNode>
+         <ClosedNode>/tb_control_unit - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|tb_control_unit.vhd</ClosedNode>
+         <ClosedNode>/tb_control_unit - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU|tb_control_unit.vhd</ClosedNode>
+         <ClosedNode>/tb_control_unit - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_control_unit.vhd</ClosedNode>
+         <ClosedNode>/tb_control_unit - behavior C:|Users|Colton|Nibble_Knowledge_CPU|tb_control_unit.vhd</ClosedNode>
+         <ClosedNode>/tb_control_unit_V2 - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|tb_control_unit_V2.vhd</ClosedNode>
+         <ClosedNode>/tb_control_unit_V2 - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_control_unit_V2.vhd</ClosedNode>
+         <ClosedNode>/tb_cpu_ram - behavior C:|Users|Colton|Nibble_Knowledge_CPU|tb_cpu_ram.vhd</ClosedNode>
+         <ClosedNode>/tb_cpu_with_io - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|tb_cpu_with_io.vhd</ClosedNode>
+         <ClosedNode>/tb_cpu_with_io - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|tb_cpu_with_io.vhd/uut - CPU - Behavioral</ClosedNode>
+         <ClosedNode>/tb_io_mapping - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|tb_io_mapping.vhd</ClosedNode>
+         <ClosedNode>/tb_register16 - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU(1)|tb_register16.vhd</ClosedNode>
+         <ClosedNode>/tb_register16 - behavior C:|Users|Bailey|Desktop|Nibble_Knowledge_CPU|tb_register16.vhd</ClosedNode>
+         <ClosedNode>/tb_register16 - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_register16.vhd</ClosedNode>
+         <ClosedNode>/tb_register16 - behavior C:|Users|Colton|Nibble_Knowledge_CPU|tb_register16.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>tb_cpu_with_io - behavior (C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/tb_cpu_with_io.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >13</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001df000000020000000000000000000000000200000064ffffffff000000810000000300000002000001df0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>tb_cpu_with_io - behavior (C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/tb_cpu_with_io.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="PostTransSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/tb_16bit_adder - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_16bit_adder.vhd</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level.vhd</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level_test2.vhd</ClosedNode>
+         <ClosedNode>/tb_control_unit - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_control_unit.vhd</ClosedNode>
+         <ClosedNode>/tb_register16 - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_register16.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>tb_CPU_top_level_test2 - behavior (C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/tb_CPU_top_level_test2.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000191000000020000000000000000000000000200000064ffffffff000000810000000300000002000001910000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>tb_CPU_top_level_test2 - behavior (C:/Users/Colton/Desktop/Nibble_Knowledge_CPU/tb_CPU_top_level_test2.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="PostTransSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="PostTransSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>ISim Simulator</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ISim Simulator</CurrentItem>
+   </ItemView>
+   <ItemView engineview="PostMapSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/tb_16bit_adder - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_16bit_adder.vhd</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level.vhd</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level_test2.vhd</ClosedNode>
+         <ClosedNode>/tb_control_unit - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_control_unit.vhd</ClosedNode>
+         <ClosedNode>/tb_register16 - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_register16.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Unassigned User Library Modules</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000191000000020000000000000000000000000200000064ffffffff000000810000000300000002000001910000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Unassigned User Library Modules</CurrentItem>
+   </ItemView>
+   <ItemView engineview="PostMapSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="PostRouteSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/tb_16bit_adder - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_16bit_adder.vhd</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level.vhd</ClosedNode>
+         <ClosedNode>/tb_CPU_top_level_test2 - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_CPU_top_level_test2.vhd</ClosedNode>
+         <ClosedNode>/tb_control_unit - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_control_unit.vhd</ClosedNode>
+         <ClosedNode>/tb_register16 - behavior C:|Users|Colton|Desktop|Nibble_Knowledge_CPU|tb_register16.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Unassigned User Library Modules</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000191000000020000000000000000000000000200000064ffffffff000000810000000300000002000001910000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Unassigned User Library Modules</CurrentItem>
+   </ItemView>
+   <ItemView engineview="PostRouteSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_BMM" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_XAW" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+</Project>

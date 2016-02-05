@@ -1,0 +1,6 @@
+vhdl work "C:\Users\Colton\Desktop\Nibble_Knowledge_CPU\one_bit_full_adder.vhd"
+vhdl work "C:\Users\Colton\Desktop\Nibble_Knowledge_CPU\Reg.vhd"
+vhdl work "C:\Users\Colton\Desktop\Nibble_Knowledge_CPU\four_bit_nand.vhd"
+vhdl work "C:\Users\Colton\Desktop\Nibble_Knowledge_CPU\four_bit_full_adder.vhd"
+vhdl work "C:\Users\Colton\Desktop\Nibble_Knowledge_CPU\alu_decode.vhd"
+vhdl work "C:\Users\Colton\Desktop\Nibble_Knowledge_CPU\alu_complete.vhd"

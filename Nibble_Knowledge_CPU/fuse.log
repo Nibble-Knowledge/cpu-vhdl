@@ -1,0 +1,24 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/tb_cpu_with_io_isim_beh.exe -prj C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/tb_cpu_with_io_beh.prj work.tb_cpu_with_io 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/one_bit_full_adder.vhd" into library work
+Parsing VHDL file "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/Reg.vhd" into library work
+Parsing VHDL file "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/io_decode.vhd" into library work
+Parsing VHDL file "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/four_bit_nand.vhd" into library work
+Parsing VHDL file "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/four_bit_full_adder.vhd" into library work
+Parsing VHDL file "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/bitadder_1.vhd" into library work
+Parsing VHDL file "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/alu_decode.vhd" into library work
+Parsing VHDL file "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/register16_with_we.vhd" into library work
+Parsing VHDL file "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/register16.vhd" into library work
+Parsing VHDL file "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/clock_new.vhd" into library work
+Parsing VHDL file "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/io_mapping.vhd" into library work
+Parsing VHDL file "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/control_unit_V2.vhd" into library work
+Parsing VHDL file "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/bitadder_16.vhd" into library work
+Parsing VHDL file "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/alu_complete.vhd" into library work
+Parsing VHDL file "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/CPU-TopLevel.vhd" into library work
+Parsing VHDL file "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/tb_cpu_with_io.vhd" into library work
+ERROR:HDLCompiler:1728 - "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/tb_cpu_with_io.vhd" Line 101: Type error near read_mode ; current type file_open_kind; expected type std_logic_vector
+ERROR:HDLCompiler:854 - "C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/tb_cpu_with_io.vhd" Line 38: Unit <behavior> ignored due to previous errors.
+VHDL file C:/Users/Bailey/Desktop/Nibble_Knowledge_CPU(1)/tb_cpu_with_io.vhd ignored due to errors
